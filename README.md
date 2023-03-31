@@ -1,2 +1,2 @@
-# Caracter-sticas-Hufflepuff
+# Caracteristicas-Hufflepuff
 Projeto desenvolvido com Flutter
